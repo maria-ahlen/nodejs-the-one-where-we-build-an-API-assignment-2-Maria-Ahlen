@@ -1,0 +1,44 @@
+{
+  "cart": [
+    {
+      "id": 2,
+      "Name": "Alice",
+      "Price": 399,
+      "Type": "Boot",
+      "Size": 37,
+      "imgUrl": "https://placeimg.com/640/480/any"
+    },
+    {
+      "id": 3,
+      "Name": "Alice",
+      "Price": 399,
+      "Type": "Boot",
+      "Size": 38,
+      "imgUrl": "https://placeimg.com/640/480/any"
+    },
+    {
+      "id": 1,
+      "Name": "Alice",
+      "Price": 399,
+      "Type": "Boot",
+      "Size": 36,
+      "imgUrl": "https://placeimg.com/640/480/any"
+    },
+    {
+      "id": 12,
+      "Name": "David",
+      "Price": 599,
+      "Type": "Sneaker",
+      "Size": 43,
+      "imgUrl": "https://placeimg.com/640/480/any"
+    },
+    {
+      "id": 4,
+      "Name": "Barry",
+      "Price": 399,
+      "Type": "Boot",
+      "Size": 41,
+      "imgUrl": "https://placeimg.com/640/480/any"
+    }
+  ]
+}
